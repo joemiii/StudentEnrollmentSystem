@@ -1,0 +1,14 @@
+/Users/joem/RiderProjects/StudentEnrollmentSystem/StudentEnrollmentSystem/bin/Debug/net9.0/StudentEnrollmentSystem
+/Users/joem/RiderProjects/StudentEnrollmentSystem/StudentEnrollmentSystem/bin/Debug/net9.0/StudentEnrollmentSystem.deps.json
+/Users/joem/RiderProjects/StudentEnrollmentSystem/StudentEnrollmentSystem/bin/Debug/net9.0/StudentEnrollmentSystem.runtimeconfig.json
+/Users/joem/RiderProjects/StudentEnrollmentSystem/StudentEnrollmentSystem/bin/Debug/net9.0/StudentEnrollmentSystem.dll
+/Users/joem/RiderProjects/StudentEnrollmentSystem/StudentEnrollmentSystem/bin/Debug/net9.0/StudentEnrollmentSystem.pdb
+/Users/joem/RiderProjects/StudentEnrollmentSystem/StudentEnrollmentSystem/obj/Debug/net9.0/StudentEnrollmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joem/RiderProjects/StudentEnrollmentSystem/StudentEnrollmentSystem/obj/Debug/net9.0/StudentEnrollmentSystem.AssemblyInfoInputs.cache
+/Users/joem/RiderProjects/StudentEnrollmentSystem/StudentEnrollmentSystem/obj/Debug/net9.0/StudentEnrollmentSystem.AssemblyInfo.cs
+/Users/joem/RiderProjects/StudentEnrollmentSystem/StudentEnrollmentSystem/obj/Debug/net9.0/StudentEnrollmentSystem.csproj.CoreCompileInputs.cache
+/Users/joem/RiderProjects/StudentEnrollmentSystem/StudentEnrollmentSystem/obj/Debug/net9.0/StudentEnrollmentSystem.dll
+/Users/joem/RiderProjects/StudentEnrollmentSystem/StudentEnrollmentSystem/obj/Debug/net9.0/refint/StudentEnrollmentSystem.dll
+/Users/joem/RiderProjects/StudentEnrollmentSystem/StudentEnrollmentSystem/obj/Debug/net9.0/StudentEnrollmentSystem.pdb
+/Users/joem/RiderProjects/StudentEnrollmentSystem/StudentEnrollmentSystem/obj/Debug/net9.0/StudentEnrollmentSystem.genruntimeconfig.cache
+/Users/joem/RiderProjects/StudentEnrollmentSystem/StudentEnrollmentSystem/obj/Debug/net9.0/ref/StudentEnrollmentSystem.dll
